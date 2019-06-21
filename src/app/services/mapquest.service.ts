@@ -7,7 +7,7 @@ import { Observable } from 'rxjs/Observable';
 
 import 'rxjs/add/operator/map';
 
-const API_KEY = 'c4SAh5CD74pjwy2AgdDXG6iEZtE67YHp';
+const API_KEY = //API KEY;
 const url = 'http://open.mapquestapi.com/directions/v2/route';
 
 @Injectable()
